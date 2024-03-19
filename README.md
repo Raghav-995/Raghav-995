@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raghav-995
 - 👀 I’m interested in Developing and learning new Things!
-- 🌱 I’m currently learning ReactJs and JQuery!
+- 🌱 I’m currently learning ReactJs and Angular!
 - 💞️ I’m looking to collaborate on Flutter and MERN stack!
 - 📫 How to reach me Message me in GitHub!
 
